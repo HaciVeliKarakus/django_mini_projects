@@ -1,0 +1,7 @@
+django-crispy-forms
+Django
+psycopg2-binary
+djangorestframework
+markdown
+django-filter
+django-jazzmin
